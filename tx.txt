@@ -1,0 +1,11 @@
+aaaa
+<MODULE:blog hoge="1" huga="2">
+<MODULE:entries>
+<MODULE:entryTitle encode_html="1">
+<MODULE:entryText>
+------------------------------
+<MODULE:HaveNextEntry>
+<MODULE:entryTitle arg="1" uri_escape="1">
+</MODULE:HaveNextEntry>
+</MODULE:entries>
+</MODULE:blog>
